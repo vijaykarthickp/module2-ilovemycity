@@ -1,4 +1,4 @@
 # I-love-my-city
 
-https://rak-module-2-i-love-my-city.herokuapp.com/
+https://vijay-module2.herokuapp.com/hyderabad
 # module-2-i-love-my-city
